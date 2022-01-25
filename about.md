@@ -72,15 +72,28 @@ Abschlussprüfung am 13.07.2010 in den Bereichen
 - SVN
 - SQL
 - GraphQL
+- PouchDB
 - Qt
 - VisualStudio
 - VisualStudioCode
 - QtCreator
+
+## Nicht ganz unbekannt
+- HTML
+- CSS
+- Liquid
+- Markdown
+- RxJS
+- Rust
+- Linux
 - Yocto-Project
+- TDD
+- Flutter
+- NativeScript
+- MongoDB
 
 ## Interessen
 - Coding
 - Landwirtschaft
 - Lesen
 - Lebenslanges lernen
-- TDD
