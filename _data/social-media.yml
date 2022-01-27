@@ -1,0 +1,23 @@
+email:
+    id: 'c.mitterndorfer@gmail.com'
+    href: 'mailto:'
+    title: 'Email'
+    fa-icon: 'fa-envelope-square'
+
+facebook:
+    id: 'christian.mitterndorfer.7'
+    href: 'https://www.facebook.com/'
+    title: 'Facebook'
+    fa-icon: 'fa-facebook-square'
+
+twitter:
+    id: '@mittch0811'
+    href: 'https://www.twitter.com/'
+    title: 'Twitter'
+    fa-icon: 'fa-twitter-square'
+
+github:
+    id": 'mittch'
+    href: 'https://github.com/'
+    title: 'GitHub'
+    fa-icon: 'fa-github-square'

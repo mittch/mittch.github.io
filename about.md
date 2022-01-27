@@ -78,7 +78,7 @@ Abschlussprüfung am 13.07.2010 in den Bereichen
 - VisualStudioCode
 - QtCreator
 
-## Nicht ganz unbekannt
+## Auch das ist mit nicht ganz unbekannt
 - HTML
 - CSS
 - Liquid
