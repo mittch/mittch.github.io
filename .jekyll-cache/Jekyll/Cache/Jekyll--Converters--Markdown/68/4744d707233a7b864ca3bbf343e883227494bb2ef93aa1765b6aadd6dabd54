@@ -1,4 +1,4 @@
-I"�<h1 id="über-mich">Über mich</h1>
+I"�<h1 id="über-mich">Über mich</h1>
 
 <h2 id="bildungsweg">Bildungsweg</h2>
 <p>09/2012 – 10/2014   Master - Studium Automatisierungstechnik an der FH Wels
@@ -96,11 +96,27 @@ Passauerstrasse 1
   <li>SVN</li>
   <li>SQL</li>
   <li>GraphQL</li>
+  <li>PouchDB</li>
   <li>Qt</li>
   <li>VisualStudio</li>
   <li>VisualStudioCode</li>
   <li>QtCreator</li>
+</ul>
+
+<h2 id="auch-das-ist-mit-nicht-ganz-unbekannt">Auch das ist mit nicht ganz unbekannt</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Liquid</li>
+  <li>Markdown</li>
+  <li>RxJS</li>
+  <li>Rust</li>
+  <li>Linux</li>
   <li>Yocto-Project</li>
+  <li>TDD</li>
+  <li>Flutter</li>
+  <li>NativeScript</li>
+  <li>MongoDB</li>
 </ul>
 
 <h2 id="interessen">Interessen</h2>
@@ -109,6 +125,5 @@ Passauerstrasse 1
   <li>Landwirtschaft</li>
   <li>Lesen</li>
   <li>Lebenslanges lernen</li>
-  <li>TDD</li>
 </ul>
 :ET
