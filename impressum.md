@@ -35,5 +35,3 @@ Sollten Sie einen derartigen Link vor unserer Überprüfung gefunden haben, so b
 # Ihre Rechte
 
 Ihnen stehen bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der oben genannten E-Mail-Adresse oder Ihrer Datenschutzbehörde beschweren.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mittch.mittch.github.io)
