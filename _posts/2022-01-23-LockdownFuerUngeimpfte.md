@@ -3,7 +3,7 @@ layout: post
 title:  "Lockdown für Ungeimpfte"
 ---
 
-# Lockdown für Ungeimpfte"
+# Lockdown für Ungeimpfte
 
 Der Lockdown für nicht geimpfte Mitbürger dauert jetzt schon nahezu 
 drei Monate. Drei Monate, in denen Ungeimpften nur die wichtigsten Güter des täglichen Lebens wie Lebensmittel erwerben dürfen. Das Kleidung, Schuhe, Werkzeug etc. nicht gekauft werden dürfen, ist meiner Meinung nach ein eigener Skandal für sich. Auch Kleidung ist für das tägliche Leben unverzichtbar und muss deshalb für jeden möglich sein zu kaufen. Amazon freut sich.
