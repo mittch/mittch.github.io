@@ -16,4 +16,5 @@ Hätte mir jemand vor 2, 3 Jahren geglaubt, wenn ich gesagt hätte, dass es in �
 
 Eine Sache noch. Es wird doch immer von der 
 > Pandemie der Ungeimpften
+
 gesprochen. Da die Ungeimpften seit drei Monaten eigentlich nichts mehr dürfen, müsste die Pandemie dann nicht eigentlich bereits beendet sein?
