@@ -3,7 +3,8 @@ title: Christian Mitterndorfer
 markdown: kramdown
 kramdown:
   input: GFM
- defaults:
+  
+defaults:
   -
     scope:
       path: ""
