@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kurzarbeit"
+published: false
 ---
 
 # Kurzarbeit
