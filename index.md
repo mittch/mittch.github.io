@@ -16,7 +16,7 @@ order: 1
   {% endfor %}
 </ul>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mittch.mittch.github.io)
-
 ## Links
-*[Azure Test page](https://https://proud-sky-0fe630703.1.azurestaticapps.net/)
+[Azure Test page](https://proud-sky-0fe630703.1.azurestaticapps.net/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mittch.mittch.github.io)
