@@ -4,7 +4,7 @@ title: Home
 order: 1
 ---
 
-![thatsme](/assets/thatsme.jpg)
+<img src="/assets/thatsme.jpg" alt="thatsme" style="width:200px;"/>
 
 ## Persönlicher Blog
 
