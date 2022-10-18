@@ -3,6 +3,9 @@ layout: default
 title: Home
 order: 1
 ---
+
+![thatsme](/_data/thatsme.jpg)
+
 ## Persönlicher Blog
 
 <ul class="post-list">
