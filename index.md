@@ -17,6 +17,7 @@ order: 1
 </ul>
 
 ## Links
-[Azure Test page](https://proud-sky-0fe630703.1.azurestaticapps.net/)
+[Azure Test page - via static app](https://proud-sky-0fe630703.1.azurestaticapps.net/)
+[Azure Test page - via vm](http://20.160.58.41/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mittch.mittch.github.io)
