@@ -4,7 +4,7 @@ title: Home
 order: 1
 ---
 
-![thatsme](/_data/thatsme.jpg)
+![thatsme](/assets/thatsme.jpg)
 
 ## Persönlicher Blog
 
