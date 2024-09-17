@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Impressum
-order: 3
+order: 4
 ---
 
 Informationspflicht laut §5 E-Commerce Gesetz und Offenlegungspflicht laut §25 Mediengesetz

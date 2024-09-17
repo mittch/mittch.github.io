@@ -1,0 +1,17 @@
+---
+layout: default
+title: Principles
+order: 3
+---
+
+# Leitbild
+
+An oberster Stelle stehen für mich meine Frau und meine Kinder. Ihrem Wohlergehen ordne ich alles unter. Ich will, gemeinsam mit ihnen, wachsen und mich stets weiterentwickeln. Lebenslanges Lernen ist für mich kein leerer Spruch, sondern ich sehe es als Pflicht. Ich nehme bei meinem Wachstum Rücksicht auf die Menschen in meinem Umfeld. Weiters kümmere ich mich liebevoll um die mich umgebende Natur. Im Umgang mit anderen bin ich stets authentisch, bestimmt und gleichsam verständnisvoll. Ich übernehme Verantwortung für mein Handeln und bin mir bewusst, dass ich Vorbild für andere bin. Dabei gebe ich anderen Richtung und Halt und ich unterstütze andere bei ihrem persönlichen Wachstum. Durch Beharrlichkeit, Ausdauer und Humor meistere ich jede Herausforderung und bin meines Glückes eigener Schmied.
+
+- Prioritäten setzen: Ich nehme mir regelmäßig Zeit für meine Familie
+- Lernchancen nutzen: Ich suche aktiv nach Möglichkeiten, Neues zu lernen und umzusetzen
+- Anderen helfen: Ich unterstütze die Menschen in meinen Umfeld
+- Achtsamkeit mit der Natur: Ich bewirtschafte meine Landwirtschaft im Einklang mit der Natur
+- An mir arbeiten: Ich reflektiere regelmäßig mein Handeln und versuche, mich stets weiterzuentwickeln
+
+Ich werde der Beste Mensch, der ich sein kann!
